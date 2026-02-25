@@ -27,7 +27,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/ngrok/ngrok-original.svg" title="Ngrok" width="40" height="40"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/ML%20Integration-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;
-<img src="https://img.shields.io/badge/Logging-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;
 <img src="https://img.shields.io/badge/Unit%20Tests-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>
 </div>
 </td>
