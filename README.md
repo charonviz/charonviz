@@ -55,10 +55,3 @@
 </table>
 ```
 
-Пару замечаний:
-
-**ML подписи** — сделал мягкими пастельными бейджами (голубой / сиреневый / зелёный), они читаются но не кричат. Текст в них можно поменять на любой.
-
-**dbt** — у тебя ссылка на Google cache, она может протухнуть. Надёжнее заменить на `https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg` если найдётся, или просто добавить текстовый badge вместо иконки:
-```
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
