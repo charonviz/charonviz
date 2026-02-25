@@ -8,10 +8,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" alt="JS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" **alt="tensorflow" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Spark" **alt="Spark" width="80" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Spark" **alt="Spark" width="80" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Spark" **alt="Spark" width="80" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/ngrok/ngrok-original.svg" title="Spark" **alt="Spark" width="80" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Spark" **alt="Spark" width="80" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Spark" **alt="Spark" width="80" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Spark" **alt="Spark" width="80" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Spark" **alt="Spark" width="80" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
   <img src="https://cdn.cdnlogo.com/logos/c/57/clickhouse.svg" title="clickhouse" **alt="clickhouse" width="40" height="40"/>
