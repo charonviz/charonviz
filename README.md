@@ -1,7 +1,7 @@
 ### Contacts
 
 <div align="left">
-<img src="https://img.shields.io/badge/ChainSIM-+000%2000%20060%20606-f0f0f0?style=flat-square&logo=ethereum&logoColor=black&labelColor=ececec"/>&nbsp;
+<img src="https://img.shields.io/badge/Web3 ChainSIM-+000%2000%20060%20606-f0f0f0?style=flat-square&logo=ethereum&logoColor=black&labelColor=ececec"/>&nbsp;
 <a href="https://t.me/charonviz" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-@charonviz-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
 </a>
