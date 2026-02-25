@@ -1,4 +1,4 @@
-### 🔗 Find me around the web
+### Find me around the web
 
 <p align="left">
   <a href="https://steamcommunity.com/profiles/76561198175736462/" target="_blank">
