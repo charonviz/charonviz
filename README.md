@@ -39,7 +39,7 @@
 
 ![ML Integration](https://img.shields.io/badge/ML%20Integration-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8)&nbsp;
 ![Logging](https://img.shields.io/badge/Logging%20%26%20Monitoring-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8)&nbsp;
-![Streaming](https://img.shields.io/badge/Streaming-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8)
+![Unit tests](https://img.shields.io/badge/Streaming-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8)
 
 </div>
 
@@ -58,9 +58,9 @@
 
 <br/>
 
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-f8f0e8?style=flat-square&labelColor=f8f0e8&color=f8f0e8)&nbsp;
+![Data-Driven and Big Data](https://img.shields.io/badge/Data%20Modeling-f8f0e8?style=flat-square&labelColor=f8f0e8&color=f8f0e8)&nbsp;
 ![ETL / ELT](https://img.shields.io/badge/ETL%20%2F%20ELT-f8f0e8?style=flat-square&labelColor=f8f0e8&color=f8f0e8)&nbsp;
-![Real-time Analytics](https://img.shields.io/badge/Real--time%20Analytics-f8f0e8?style=flat-square&labelColor=f8f0e8&color=f8f0e8)
+![Analytics](https://img.shields.io/badge/Real--time%20Analytics-f8f0e8?style=flat-square&labelColor=f8f0e8&color=f8f0e8)
 
 </div>
 
