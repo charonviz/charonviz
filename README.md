@@ -34,6 +34,13 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ngrok/ngrok-original.svg" title="Ngrok" width="40" height="40"/>
+
+<br/>
+
+![ML Integration](https://img.shields.io/badge/ML%20Integration-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8)&nbsp;
+![Logging](https://img.shields.io/badge/Logging%20%26%20Monitoring-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8)&nbsp;
+![Streaming](https://img.shields.io/badge/Streaming-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8)
+
 </div>
 
 </td>
@@ -48,10 +55,15 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Airflow" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" width="40" height="40"/>&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzMVR6s-oFs0Vf6sXj_PHB96cAi4c3paVm6Q&s" title="dbt" width="40" height="40"/>
+
+<br/>
+
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-f8f0e8?style=flat-square&labelColor=f8f0e8&color=f8f0e8)&nbsp;
+![ETL / ELT](https://img.shields.io/badge/ETL%20%2F%20ELT-f8f0e8?style=flat-square&labelColor=f8f0e8&color=f8f0e8)&nbsp;
+![Real-time Analytics](https://img.shields.io/badge/Real--time%20Analytics-f8f0e8?style=flat-square&labelColor=f8f0e8&color=f8f0e8)
+
 </div>
 
 </td>
   </tr>
 </table>
-```
-
