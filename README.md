@@ -1,13 +1,31 @@
-### Find me around the web
+### Contacts
 
-<p align="left">
-  <a href="https://steamcommunity.com/profiles/76561198175736462/" target="_blank">
-    <img src="https://img.shields.io/badge/Gaming-Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://istina.msu.ru/profile/xnikon/" target="_blank">
-    <img src="https://img.shields.io/badge/Science-ИСТИНА_МГУ-003087?style=for-the-badge&logo=academia&logoColor=white"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+<div align="center">
+<img src="https://img.shields.io/badge/───%20Socials%20───-white?style=for-the-badge"/>
+<br/><br/>
+<a href="https://t.me/charonviz" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-@charonviz-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+</a>&nbsp;
+<a href="https://steamcommunity.com/profiles/76561198175736462/" target="_blank">
+  <img src="https://img.shields.io/badge/Steam-Gaming-1b2838?style=flat-square&logo=steam&logoColor=white"/>
+</a>&nbsp;
+<a href="https://istina.msu.ru/profile/xnikon/" target="_blank">
+  <img src="https://img.shields.io/badge/ИСТИНА_МГУ-Science-003087?style=flat-square&logo=academia&logoColor=white"/>
+</a>
+</div>
+</td>
+    <td valign="top" width="50%">
+<div align="center">
+<img src="https://img.shields.io/badge/───%20Web3%20───-white?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/ChainSIM-+000%2000%20060%20606-f0f0f0?style=flat-square&logo=ethereum&logoColor=black&labelColor=ececec"/>
+</div>
+</td>
+  </tr>
+</table>
 
 ---
 
