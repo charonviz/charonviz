@@ -1,18 +1,7 @@
-### Contacts
-<div align="left">
-<img src="https://img.shields.io/badge/Web3 ChainSIM-+000%2000%20060%20606-f0f0f0?style=flat-square&logo=ethereum&logoColor=black&labelColor=ececec"/>&nbsp;
-<a href="https://t.me/charonviz" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-@charonviz-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
-</a>
-</div>
-
----
-
 ### Languages and Tools
 <table>
   <tr>
-    <td valign="top" width="33%">
-<div align="center">
+    <td align="center" valign="top" width="33%">
 <img src="https://img.shields.io/badge/──────%20ML%20──────-white?style=for-the-badge"/>
 <br/><br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
@@ -21,16 +10,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Spark" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
 <br/><br/>
-<p align="center">
 <img src="https://img.shields.io/badge/Tiny%20ML-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;
 <img src="https://img.shields.io/badge/VLM%20%2F%20LLM-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;
 <img src="https://img.shields.io/badge/Moderation-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;
 <img src="https://img.shields.io/badge/Speech-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>
-</p>
-</div>
 </td>
-    <td valign="top" width="33%">
-<div align="center">
+    <td align="center" valign="top" width="33%">
 <img src="https://img.shields.io/badge/─────%20Backend%20─────-white?style=for-the-badge"/>
 <br/><br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" width="40" height="40"/>&nbsp;
@@ -39,15 +24,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ngrok/ngrok-original.svg" title="Ngrok" width="40" height="40"/>
 <br/><br/>
-<p align="center">
 <img src="https://img.shields.io/badge/ML%20Integration-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;
 <img src="https://img.shields.io/badge/Logging-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;
 <img src="https://img.shields.io/badge/Testing-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>
-</p>
-</div>
 </td>
-    <td valign="top" width="33%">
-<div align="center">
+    <td align="center" valign="top" width="33%">
 <img src="https://img.shields.io/badge/─────%20DWH%20─────-white?style=for-the-badge"/>
 <br/><br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
@@ -56,12 +37,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" width="40" height="40"/>&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzMVR6s-oFs0Vf6sXj_PHB96cAi4c3paVm6Q&s" title="dbt" width="40" height="40"/>
 <br/><br/>
-<p align="center">
 <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-f8f0e8?style=flat-square&labelColor=f8f0e8&color=f8f0e8"/>&nbsp;
 <img src="https://img.shields.io/badge/Big%20Data-f8f0e8?style=flat-square&labelColor=f8f0e8&color=f8f0e8"/>&nbsp;
 <img src="https://img.shields.io/badge/Analytics-f8f0e8?style=flat-square&labelColor=f8f0e8&color=f8f0e8"/>
-</p>
-</div>
 </td>
   </tr>
 </table>
