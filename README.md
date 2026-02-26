@@ -22,10 +22,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Spark" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Tiny%20ML-e8f4f8?style=flat-square&labelColor=e8f4f8&color=e8f4f8"/>&nbsp;
-<img src="https://img.shields.io/badge/VLM%20%2F%20LLM-ede8f8?style=flat-square&labelColor=ede8f8&color=ede8f8"/>&nbsp;
-<img src="https://img.shields.io/badge/Moderation-e8f8ee?style=flat-square&labelColor=e8f8ee&color=e8f8ee"/>
-<img src="https://img.shields.io/badge/Speech-e8f8ee?style=flat-square&labelColor=e8f8ee&color=e8f8ee"/>
+<img src="https://img.shields.io/badge/Tiny%20ML-e8f4f8?style=flat-square&labelColor=e8f4f8&color=fdf3e8"/>&nbsp;
+<img src="https://img.shields.io/badge/VLM%20%2F%20LLM-ede8f8?style=flat-square&labelColor=fdf3e8&color=ede8f8"/>&nbsp;
+<img src="https://img.shields.io/badge/Moderation-e8f8ee?style=flat-square&labelColor=e8f8ee&color=fdf3e8"/>&nbsp;
+<img src="https://img.shields.io/badge/Speech-e8f8ee?style=flat-square&labelColor=e8f8ee&color=fdf3e8"/>
 </div>
 </td>
     <td valign="top" width="33%">
