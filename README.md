@@ -1,13 +1,3 @@
-### Contacts
-<div align="left">
-<img src="https://img.shields.io/badge/Web3 ChainSIM-+000%2000%20060%20606-f0f0f0?style=flat-square&logo=ethereum&logoColor=black&labelColor=ececec"/>&nbsp;
-<a href="https://t.me/charonviz" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-@charonviz-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
-</a>
-</div>
-
----
-
 ### Languages and Tools
 <table>
   <tr>
@@ -21,8 +11,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/Tiny%20ML-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;
-<img src="https://img.shields.io/badge/VLM%20%2F%20LLM-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>
-<br/>
+<img src="https://img.shields.io/badge/VLM%20%2F%20LLM-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;
 <img src="https://img.shields.io/badge/Moderation-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;
 <img src="https://img.shields.io/badge/Speech-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>
 </td>
