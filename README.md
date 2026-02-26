@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/Tiny%20ML-e8f4f8?style=flat-square&labelColor=e8f4f8&color=e8f4f8"/>&nbsp;
 <img src="https://img.shields.io/badge/VLM%20%2F%20LLM-ede8f8?style=flat-square&labelColor=ede8f8&color=ede8f8"/>&nbsp;
 <img src="https://img.shields.io/badge/Moderation-e8f8ee?style=flat-square&labelColor=e8f8ee&color=e8f8ee"/>
+<img src="https://img.shields.io/badge/Speech-e8f8ee?style=flat-square&labelColor=e8f8ee&color=e8f8ee"/>
 </div>
 </td>
     <td valign="top" width="33%">
