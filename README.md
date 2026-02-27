@@ -10,7 +10,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Spark" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Tiny%20ML-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;<img src="https://img.shields.io/badge/VLM%20%2F%20LLM-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;<img src="https://img.shields.io/badge/Moderation-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;<img src="https://img.shields.io/badge/Speech-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>
+<img src="https://img.shields.io/badge/VLM%20%2F%20LLM-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;<img src="https://img.shields.io/badge/Tiny%20ML-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;<img src="https://img.shields.io/badge/Moderation-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;<img src="https://img.shields.io/badge/Speech-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;<img src="https://img.shields.io/badge/Quality%20Metrics-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>
 </td>
     <td align="center" valign="top" width="33%">
 <img src="https://img.shields.io/badge/─────%20Backend%20─────-white?style=for-the-badge"/>
@@ -21,7 +21,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ngrok/ngrok-original.svg" title="Ngrok" width="40" height="40"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/ML%20Integration-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;<img src="https://img.shields.io/badge/Logging-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;<img src="https://img.shields.io/badge/Testing-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>
+<img src="https://img.shields.io/badge/ML%20Integration-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;<img src="https://img.shields.io/badge/Logging-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;<img src="https://img.shields.io/badge/Testing-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>&nbsp;<img src="https://img.shields.io/badge/CI%2FCD-fdf3e8?style=flat-square&labelColor=fdf3e8&color=fdf3e8"/>
 </td>
     <td align="center" valign="top" width="33%">
 <img src="https://img.shields.io/badge/─────%20DWH%20─────-white?style=for-the-badge"/>
