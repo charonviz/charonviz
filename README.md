@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🌐 Contacts
+## Contacts
 
 <a href="https://t.me/charonviz">
   <img src="https://img.shields.io/badge/Telegram-@charonviz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -42,7 +42,7 @@
 <br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" width="40" height="40"/>&nbsp;
-<img src="https://img.shields.io/badge/Apache%20Kafka-E87722?style=for-the-badge&logo=apachekafka&logoColor=white" title="Kafka" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" title="Kafka" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ngrok/ngrok-original.svg" title="Ngrok" width="40" height="40"/>
 <br/><br/>
