@@ -14,15 +14,15 @@
 
 ### Languages and Tools
 
-<table>
+<table bgcolor="#ffffff">
   <tr>
-    <th align="center" width="33%">
+    <th align="center" width="33%" bgcolor="#ffffff">
       <img src="https://img.shields.io/badge/──────%20ML%20──────-white?style=for-the-badge"/>
     </th>
-    <th align="center" width="33%">
+    <th align="center" width="33%" bgcolor="#ffffff">
       <img src="https://img.shields.io/badge/─────%20Backend%20─────-white?style=for-the-badge"/>
     </th>
-    <th align="center" width="33%">
+    <th align="center" width="33%" bgcolor="#ffffff">
       <img src="https://img.shields.io/badge/─────%20DWH%20─────-white?style=for-the-badge"/>
     </th>
   </tr>
@@ -35,7 +35,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Spark" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/VLM%20%2F%20LLM-white?style=flat-square&labelColor=white&color=white"/>&nbsp;<img src="https://img.shields.io/badge/Tiny%20ML-white?style=flat-square&labelColor=white&color=white"/>&nbsp;<img src="https://img.shields.io/badge/Moderation-white?style=flat-square&labelColor=white&color=white"/>&nbsp;<img src="https://img.shields.io/badge/Speech-white?style=flat-square&labelColor=white&color=white"/>&nbsp;<img src="https://img.shields.io/badge/Quality%20Metrics-white?style=flat-square&labelColor=white&color=white"/>
+<img src="https://img.shields.io/badge/VLM%20%2F%20LLM-555555?style=flat-square&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Tiny%20ML-555555?style=flat-square&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Moderation-555555?style=flat-square&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Speech-555555?style=flat-square&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Quality%20Metrics-555555?style=flat-square&logoColor=white"/>
 <br/>
 </td>
     <td align="center" valign="top" bgcolor="#ffffff">
@@ -46,7 +46,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ngrok/ngrok-original.svg" title="Ngrok" width="40" height="40"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/ML%20Integration-white?style=flat-square&labelColor=white&color=white"/>&nbsp;<img src="https://img.shields.io/badge/Logging-white?style=flat-square&labelColor=white&color=white"/>&nbsp;<img src="https://img.shields.io/badge/Testing-white?style=flat-square&labelColor=white&color=white"/>&nbsp;<img src="https://img.shields.io/badge/CI%2FCD-white?style=flat-square&labelColor=white&color=white"/>
+<img src="https://img.shields.io/badge/ML%20Integration-555555?style=flat-square&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Logging-555555?style=flat-square&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Testing-555555?style=flat-square&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CI%2FCD-555555?style=flat-square&logoColor=white"/>
 <br/>
 </td>
     <td align="center" valign="top" bgcolor="#ffffff">
@@ -57,7 +57,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" width="40" height="40"/>&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzMVR6s-oFs0Vf6sXj_PHB96cAi4c3paVm6Q&s" title="dbt" width="40" height="40"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/ETL%20%2F%20ELT-white?style=flat-square&labelColor=white&color=white"/>&nbsp;<img src="https://img.shields.io/badge/Big%20Data-white?style=flat-square&labelColor=white&color=white"/>&nbsp;<img src="https://img.shields.io/badge/Analytics-white?style=flat-square&labelColor=white&color=white"/>
+<img src="https://img.shields.io/badge/ETL%20%2F%20ELT-555555?style=flat-square&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Big%20Data-555555?style=flat-square&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Analytics-555555?style=flat-square&logoColor=white"/>
 <br/>
 </td>
   </tr>
