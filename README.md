@@ -1,6 +1,6 @@
 <div align="center">
 
-## 📬 Contacts
+## 🌍 Contacts
 
 <a href="https://t.me/charonviz">
   <img src="https://img.shields.io/badge/Telegram-@charonviz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
